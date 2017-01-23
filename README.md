@@ -8,4 +8,4 @@ that much configuration, as that would be considered harmful.
 License
 =======
 
-See ./COPYING.
+See ./LICENSE.
