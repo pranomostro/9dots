@@ -6,7 +6,7 @@ bind -c $home/tmp /tmp
 font=/lib/font/bit/pelm/euro.9.font
 
 #configure the network on startup without delaying startup.
-{ip/ipconfig; ndb/dns -r}&
+{ ip/ipconfig; ndb/dns -r }&
 
 cat $home/proj/begun/neo/neo2 >/dev/kbmap
 

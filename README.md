@@ -1,9 +1,14 @@
 libfiles
 =========
 
-This is just a backup of my current plan9 configuration files.
-Maybe this will grow over time, maybe it won't. plan9 doesn't need
-that much configuration, as that would be considered harmful.
+This repository contains configuration files for plan9.
+
+Installation
+------------
+
+	mv 9dots $home/lib
+
+should do the trick.
 
 License
 =======
