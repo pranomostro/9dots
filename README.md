@@ -13,4 +13,4 @@ should do the trick.
 License
 =======
 
-See ./LICENSE.
+See [LICENSE](./LICENSE).
